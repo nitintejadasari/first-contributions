@@ -1889,6 +1889,7 @@
 - [alkndoom](https://github.com/alkndoom)
 - [lougau92](https://github.com/lougau92)
 - [Anushka](https://github.com/Anushka1503)
+- [Nitin Teja](https://github.com/nitintejadasari)
 - [Dave Aigbe](https://github.com/DaveAigbe)
 - Matheus Trilha Koch
 - [Laurie H](https://github.com/coderlore)
@@ -2412,7 +2413,6 @@
 - [Ajay Prasad](https://github.com/ajaypds)
 - [Tyyo1999](https://github.com/tyyo1999)
 - [Jon Hussey](https://github.com/jonhussey)
-- [Nitin Teja](https://github.com/nitintejadasari)
 - [Andhika Kurniwan](https://github.com/AndhikaK)
 - [Aiden Usui](https://github.com/TheActualAids)
 <!-- prettier-ignore-end -->
